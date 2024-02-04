@@ -1,6 +1,6 @@
-# ToDo List App
+# [ToDo List App](https://to-do-app-zeta-beige.vercel.app/)
 
-This project is created using simple React concepts and basic hooks like useState.
+This project is created using simple React concepts and basic hooks like useState. Click on the name to view the project
 
 It is a simple list having an input bar with a button next to it.
 
